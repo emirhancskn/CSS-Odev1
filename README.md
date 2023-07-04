@@ -1,3 +1,3 @@
 # CSS-Odev1
 Sayfamıza Biraz Makyaj Yapalım
-![Alt text](htmlcssjs.png)
+![CSS](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/css/odev1/figures/htmlcssjs.png)
